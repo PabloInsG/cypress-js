@@ -1,0 +1,24 @@
+{
+  "name": "pablo",
+  "apellido": "insua",
+  "email": "hello@cypress.io",
+  "sexo": "Male",
+  "telefono": "2323232323",
+  "fechaNacimiento": [
+    "December",
+    "1990",
+    "31"
+  ],
+  "subjects": [
+      "English",
+      "Commerce"
+  ],
+  "hobbies": [
+    "Sports",
+    "Music"
+  ],
+  "imagen": "my-image.png",
+  "direccion": "alguna direccion ficticia",
+  "estado": "NCR",
+  "ciudad": "Delhi"
+}

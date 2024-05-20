@@ -36,7 +36,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "cypress/e2e/home.cy.js", "cypress/support/commands.js", "cypress/support/e2e.js", "cypress.config.js"  ],
   "exclude": [
     "**/node_modules",
     "**/.*/"
